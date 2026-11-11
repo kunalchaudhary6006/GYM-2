@@ -1,0 +1,6 @@
+{
+  "name": "Web App",
+  "description": "Modern web application with Google AdSense integrated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
